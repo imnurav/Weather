@@ -1,9 +1,13 @@
-<h1>Used openweather api for fetching the current 
--Temperature
--Moisture
--Wind speed 
--Humidity
--Weather description.🥰</h1>
+<h1>Used openweather api for fetching Weather Data.</h1>
+
+```diff
+-Temperature.
+-Moisture.
+-Wind speed.
+-Humidity.
+-Moisture bold.
+-Weather description.🥰
+```
 
 <h2>Delhi Weather</h2>
 ![DelhiWeather](images/delhi.png)
