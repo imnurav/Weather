@@ -1,19 +1,25 @@
-<h1>Used openweather api for fetching Weather Data.</h1>
+# Weather Finder
 
-```diff
--Temperature.
--Moisture.
--Wind speed.
--Humidity.
--Moisture bold.
--Weather description.🥰
-```
+## Used Openweather API to fetch all the details given below : -
 
-<h2>Delhi Weather</h2>
-![DelhiWeather](images/delhi.png)
+### Temperature
 
-<h2>Mumbai Weather</h2>
-![MumbaiWeather](images/mumbai.png)
+### Weather Description
 
-<h2>Haryana Weather</h2>
-![HaryanaWeather](images/haryana.png)
+### Humidity
+
+### Wind Speed
+
+## Some Examples are......
+
+### Delhi
+
+![Delhi](images/delhi.png)
+
+### Mumbai
+
+![Mumbai](images/mumbai.png)
+
+### Haryana
+
+![Haryana](images/haryana.png)
