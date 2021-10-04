@@ -1,15 +1,16 @@
-<h1>Used openweather api for fetching the current 
+#Used openweather api for fetching Weather Data.
+```diff
 -Temperature
--Moisture
--Wind speed 
-,-Humidity
--Weather description.🥰</h1>
++Moisture
+!Wind speed 
+#Humidity
+@@Weather description.🥰```
 
 <h2>Delhi Weather</h2>
-![DelhiWeather](/delhi.png)
+![DelhiWeather](delhi.png)
 
 <h2>Mumbai Weather</h2>
-![MumbaiWeather](/mumbai.png)
+![MumbaiWeather](mumbai.png)
 
 <h2>Haryana Weather</h2>
-![HaryanaWeather](/haryana.png)
+![HaryanaWeather](haryana.png)
