@@ -1,3 +1,3 @@
-![case 1](delhi)
-![case 2](mumbai)
-![case 3](haryana)
+![case 1](delhi.png)
+![case 2](mumbai.png)
+![case 3](haryana.png)
