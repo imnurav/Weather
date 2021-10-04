@@ -1,10 +1,11 @@
 #Used openweather api for fetching Weather Data.
 ```diff
 -Temperature
-+Moisture
++Moisture bold
 !Wind speed 
 #Humidity
-@@Weather description.🥰```
+@@Weather description.🥰
+```
 
 <h2>Delhi Weather</h2>
 ![DelhiWeather](delhi.png)
