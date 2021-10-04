@@ -2,14 +2,14 @@
 -Temperature
 -Moisture
 -Wind speed 
-,-Humidity
+-Humidity
 -Weather description.🥰</h1>
 
 <h2>Delhi Weather</h2>
-![DelhiWeather](delhi.png)
+![DelhiWeather](images/delhi.png)
 
 <h2>Mumbai Weather</h2>
-![MumbaiWeather](mumbai.png)
+![MumbaiWeather](images/mumbai.png)
 
 <h2>Haryana Weather</h2>
-![HaryanaWeather](haryana.png)
+![HaryanaWeather](images/haryana.png)
